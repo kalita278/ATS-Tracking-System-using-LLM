@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-git clone https://github.com/kalita278/Text-to-SQL-LLM-Application.git
+git clone https://github.com/kalita278/ATS-Tracking-System-using-LLM.git
 ```
 
 Create a virtual environment using Pipenv:
